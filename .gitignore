@@ -6,6 +6,7 @@ Raytracer/Release/
 
 # Images
 *.bmp
+*.jpg
 
 # Prerequisites
 *.d
