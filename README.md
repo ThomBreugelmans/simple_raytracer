@@ -7,4 +7,4 @@ After rendering it will save it to a bitmap image and automatically open it for 
 
 An example of some primitives rendered using default settings:
 
-![example](https://github.com/ThomBreugelmans/simple_raytracer/blob/master/example.jpg?raw=true)
+![example](example.jpg?raw=true)
